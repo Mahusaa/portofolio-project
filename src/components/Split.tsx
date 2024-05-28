@@ -19,9 +19,15 @@ const Split = () => {
                         <a href="https://github.com/Mahusaa" target="_blank" rel="noopener noreferrer">
                         <FaGithub className="hover:text-slate-200" />
                         </a>
+                        <a href="https://www.linkedin.com/in/usamah-hafizh/" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin className="hover:text-slate-200" />
+                        </a>
+                        <a href="https://github.com/Mahusaa" target="_blank" rel="noopener noreferrer">
                         <IoLogoVercel className="hover:text-slate-200" />
+                        </a>
+                        <a href="https://github.com/Mahusaa" target="_blank" rel="noopener noreferrer">
                         <FaInstagram className="hover:text-slate-200" />
+                        </a>
                         <FaSquareXTwitter className="hover:text-slate-200" />
                     </div>
                 </div>
