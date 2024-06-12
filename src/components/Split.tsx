@@ -5,6 +5,7 @@ import { IoLogoVercel } from "react-icons/io5";
 import { FaInstagram } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import About from "./About";
+import ProjectList from "./PortofolioContent";
 
 
 const Split = () => {
@@ -33,9 +34,10 @@ const Split = () => {
                 </div>
             </div>
             <div className="lg:w-1/2 p-4 lg:overflow-auto">
-                <div className="space-y-4">
+                <div className="space-y-20">
                     <About />
                     <ExperienceCard />
+                    <ProjectList />
                 </div>
             </div>
         </div>
