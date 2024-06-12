@@ -5,8 +5,6 @@ import { MdOutlineArrowOutward } from "react-icons/md";
 import { Experience } from '../scripts/experience';
 
 
-
-
 const ExperienceCard: React.FC = () => {
   return (<>
   {Experience.map((exp) => (
